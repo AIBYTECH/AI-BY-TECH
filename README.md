@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osama Khan From AI BY TECH</h1>
-<h3 align="center">We are passionate frontend developer from Pakistan</h3>
+<h3 align="center">Revolutionize your business with our AI and ML engineering expertise.</h3>
 
-<img  src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif" alt="AI animated gif">
+<img align="center" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif" alt="AI animated gif">
 	
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aibytech" alt="aibytech" /></a> </p>
