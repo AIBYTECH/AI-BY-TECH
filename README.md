@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Osama Khan From AI BY TECH</h1>
-<h3 align="center">Revolutionize your business with our AI and ML engineering expertise.</h3>
+<h1 align="center">Hi 👋, I'm Osama Khan From AIBYTECH</h1>
+<h3 align="center">Empowering the future.</h3>
 
 <img align="center" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif" alt="AI animated gif">
 	
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aibytech" alt="aibytech" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aibytech" target="blank"><img src="https://img.shields.io/twitter/follow/aibytech?logo=twitter&style=for-the-badge" alt="aibytech" /></a> </p>
-
-- 👨‍💻 All of our projects are available at [aibytech.digital](aibytech.digital)
+<p align="left"> <a href="[https://twitter.com/AI_BY_TECH]" target="blank"><img src="https://img.shields.io/twitter/follow/aibytech?logo=twitter&style=for-the-badge" alt="ai_by_tech" /></a> </p>
 
 - Our website [aibytech.digital](aibytech.digital)
 
-- 📫 How to reach me **osamakhanaibytech@gmail.com**
+- 📫 How to reach me **info.aibytech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
