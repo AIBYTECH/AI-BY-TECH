@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anum From AIBYTECH</h1>
+<h1 align="center">Hi 👋, I'm Anum From AIBYTEC</h1>
 <h3 align="center">Empowering the future.</h3>
 
 <img align="center" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif" alt="AI animated gif">
